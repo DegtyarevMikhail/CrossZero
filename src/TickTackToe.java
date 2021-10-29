@@ -9,7 +9,7 @@ public class TickTackToe {
     private static final char DOT_X = 'X';
     private static final char DOT_O = 'O';
 
-    private static final boolean SILLY_MODE = false;
+    private static final boolean SILLY_MODE = true;
 
     private static Scanner scanner = new Scanner(System.in);
     private static Random random = new Random();
